@@ -9,8 +9,10 @@ Repositório com conteúdos pertinentes ao meu aprendizado e que podem ajudar ou
 
 [Curso de Git e Github COMPLETO 2021 [Iniciantes] + Desafios + Muita Prática](https://www.youtube.com/watch?v=kB5e-gTAl_s "Dev Aprender")
 
-
 [Curso GIT e GITHUB - Personalizando o README.md com markdown (inserir gif, vídeo, etc)](https://www.youtube.com/watch?v=T70t3mDiwvg "Professor José de Assis")
+
+[Associando o GitHub no Visual Studio Code](https://www.youtube.com/watch?v=peGUkhXD3Vw "Professor Well")
+
 
 <hr/>
 
