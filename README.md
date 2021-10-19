@@ -3,7 +3,7 @@ Repositório com conteúdos pertinentes ao meu aprendizado e que podem ajudar ou
 
 *Este conteúdo será constantemente incrementado*
 
-![Teclado e mouse RGB](https://tm.ibxk.com.br/2021/09/21/21123017913157.jpg?ims=704x264 "Technology")
+![Reator Arc](https://64.media.tumblr.com/9b919a61c6f91cddc3afcad2dc101ce0/tumblr_o7vrxl8Uk11runoqyo2_540.gifv "Loaading...")
 
 
 ## Vídeos
