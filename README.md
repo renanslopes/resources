@@ -13,6 +13,8 @@ Repositório com conteúdos pertinentes ao meu aprendizado e que podem ajudar ou
 
 [Associando o GitHub no Visual Studio Code](https://www.youtube.com/watch?v=peGUkhXD3Vw "Professor Well")
 
+[Como Criar um Pull Request no Github](https://www.youtube.com/watch?v=dSUT0Y7suPI "Terminal Root")
+
 
 <hr/>
 
@@ -22,4 +24,6 @@ Repositório com conteúdos pertinentes ao meu aprendizado e que podem ajudar ou
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "adam-p" )
 
-[[Git e Github] Guia rápido e Comandos básicos para iniciantes ](https://dev.to/womakerscode/git-e-github-guia-rapido-e-comandos-basicos-para-iniciantes-4ile "womakerscode" )
+[[Git e Github] Guia rápido e Comandos básicos para iniciantes](https://dev.to/womakerscode/git-e-github-guia-rapido-e-comandos-basicos-para-iniciantes-4ile "womakerscode" )
+
+[Como Criar um Pull Request no GitHub](https://www.digitalocean.com/community/tutorials/como-criar-um-pull-request-no-github-pt "Lisa Tagliaferri")
