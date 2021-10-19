@@ -27,3 +27,14 @@ Repositório com conteúdos pertinentes ao meu aprendizado e que podem ajudar ou
 [[Git e Github] Guia rápido e Comandos básicos para iniciantes](https://dev.to/womakerscode/git-e-github-guia-rapido-e-comandos-basicos-para-iniciantes-4ile "womakerscode" )
 
 [Como Criar um Pull Request no GitHub](https://www.digitalocean.com/community/tutorials/como-criar-um-pull-request-no-github-pt "Lisa Tagliaferri")
+
+
+### CSS
+[Guia Flexbox](https://origamid.com/projetos/flexbox-guia-completo/ "Origamid")
+
+
+
+### HTML
+[Lazy loading nativo de imagens e iframes](https://desenvolvimentoparaweb.com/html/lazy-loading-nativo-imagem-iframe/ "DPW")
+[Resolução máximo ideal para exibir contepudo em modo mobile](https://pt.stackoverflow.com/questions/386448/resolu%c3%a7%c3%a3o-m%c3%a1xima-ideal-para-exibir-conte%c3%bado-em-modo-mobile "Stack Overflow")
+
