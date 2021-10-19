@@ -3,6 +3,9 @@ Repositório com conteúdos pertinentes ao meu aprendizado e que podem ajudar ou
 
 *Este conteúdo será constantemente incrementado*
 
+![Teclado e mouse RGB](https://tm.ibxk.com.br/2021/09/21/21123017913157.jpg?ims=704x264 "Technology")
+
+
 ## Vídeos
 ### GitHub
 [Como usar Git e GitHub na prática!](https://www.youtube.com/watch?v=UBAX-13g8OM "Rafaella Ballerini")
