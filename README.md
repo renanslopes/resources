@@ -31,6 +31,10 @@ Repositório com conteúdos pertinentes ao meu aprendizado e que podem ajudar ou
 
 [Como Criar um Pull Request no GitHub](https://www.digitalocean.com/community/tutorials/como-criar-um-pull-request-no-github-pt "Lisa Tagliaferri")
 
+[Como resolver src refspec master does not match any no git](https://www.horadecodar.com.br/2021/08/08/como-resolver-src-refspec-master-does-not-match-any-no-git/)
+
+[Git error: src refspec master does not match any.](https://itsmycode.com/git-error-src-refspec-master-does-not-match-any/)
+
 
 ### CSS
 [Guia Flexbox](https://origamid.com/projetos/flexbox-guia-completo/ "Origamid")
