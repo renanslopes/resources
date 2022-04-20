@@ -43,5 +43,6 @@ Repositório com conteúdos pertinentes ao meu aprendizado e que podem ajudar ou
 
 ### HTML
 [Lazy loading nativo de imagens e iframes](https://desenvolvimentoparaweb.com/html/lazy-loading-nativo-imagem-iframe/ "DPW")
+
 [Resolução máximo ideal para exibir contepudo em modo mobile](https://pt.stackoverflow.com/questions/386448/resolu%c3%a7%c3%a3o-m%c3%a1xima-ideal-para-exibir-conte%c3%bado-em-modo-mobile "Stack Overflow")
 
